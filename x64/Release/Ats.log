@@ -1,0 +1,10 @@
+﻿  Ats.cpp
+D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\ini.h(213,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\ini.h(218,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\ini.h(223,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TICS.cpp
+D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\TICS.cpp(27,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\TICS.cpp(202,17): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+     ライブラリ D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\x64\Release\Ats.lib とオブジェクト D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\x64\Release\Ats.exp を作成中
+  Ats.vcxproj -> D:\Users\Nepia\Downloads\TICSplugin-master\TICSplugin-master\x64\Release\Ats.dll
